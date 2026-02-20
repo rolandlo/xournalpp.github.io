@@ -20,8 +20,8 @@ versions:
     links: windows.stable-arm
     extras_ver: latest_stable
   - name: Microsoft Store
-  	subtitle: (Recommended - for automatic updates)
-  	description: Suits most users with its focus on automatic updates of stable releases.
+    subtitle: (Recommended - for automatic updates)
+    description: Suits most users with its focus on automatic updates of stable releases.
     links: windows.ms-store
   - name: Nightly EXE
     subtitle: (Unstable)
