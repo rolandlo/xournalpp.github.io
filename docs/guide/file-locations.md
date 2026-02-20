@@ -50,7 +50,7 @@ The config folder contains configuration files like
 
 - the `settings.xml` file, which stores Xournal++ settings
 - `metadata` subfolder, which contains metadata of previously opened files
-- the `colornames.ini` file, which allows to configure colors
+- `palettes` subfolder, which contains custom color palettes
 
 ## Cache folder
 
